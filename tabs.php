@@ -144,3 +144,6 @@ function sis_insert_tab($atts, $content=null){
 	return $tabs;
 }
 add_shortcode('all-tabs', 'sis_insert_tab');
+
+//to add shortcode in text widgets
+add_filter('widget_text', 'do_shortcode');
