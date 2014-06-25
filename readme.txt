@@ -17,7 +17,7 @@ Just paste the following shortcode where you want to display this tab:
 
 `[all-tabs]`
 
-Or you can paste following to add map to your theme:
+Or you can paste following to add tab to your theme:
 
 `<?php echo do_shortcode('[all-tabs]'); ?>`
 
