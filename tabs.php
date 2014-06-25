@@ -2,10 +2,10 @@
 /*
 Plugin Name: SIS Tabs
 Plugin URI: https://wordpress.org/plugins/sis-tabs
-Description: This plugin will displays collapsible content panels for presenting information in a limited amount of space.
+Description: A single content area with multiple panels, each associated with a header in a list.
 Author: Sayful Islam
 Author URI: http://sayful.net
-Version: 1.2
+Version: 1.0
 */
 // Set up our WordPress Plugin
 function sis_tabs_check_WP_ver()
