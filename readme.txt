@@ -21,10 +21,6 @@ Or you can paste following to add tab to your theme:
 
 `<?php echo do_shortcode('[all-tabs]'); ?>`
 
-= Still need help? Watch this Youtube Video. =
-
-https://www.youtube.com/watch?v=ZfuD0Phpz-4
-
 
 == Installation ==
 
